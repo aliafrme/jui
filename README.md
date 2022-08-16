@@ -1,1 +1,1 @@
-<a href="/src/index.html"></a>
+<a href="/public/index.html"></a>
